@@ -3,6 +3,7 @@ body {
     display: flex;
     flex-direction: column;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
 }
 span {
     font-weight: bold;
@@ -18,7 +19,7 @@ span {
     padding-left: 200px;
     padding-right: 200px;
     flex: 0 0 auto;
-    border-bottom: 2px solid #3882f6;
+    border-bottom: 2px solid #e5e7eb;
 }
 .header-logo {
     height: 60px;
